@@ -2,8 +2,8 @@ package oauthclientmanager.clientmanager.user;
 
 import org.springframework.stereotype.Service;
 
-import ouathclientmanager.clientmanager.clientdetails.OauthClientDetails;
-import ouathclientmanager.clientmanager.clientdetails.OauthClientDetailsRepo;
+import oauthclientmanager.clientmanager.clientdetails.OauthClientDetails;
+import oauthclientmanager.clientmanager.clientdetails.OauthClientDetailsRepo;
 
 
 @Service

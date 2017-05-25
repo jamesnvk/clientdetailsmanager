@@ -1,4 +1,4 @@
-package ouathclientmanager.clientmanager.clientdetails;
+package oauthclientmanager.clientmanager.clientdetails;
 
 
 import org.springframework.data.repository.CrudRepository;

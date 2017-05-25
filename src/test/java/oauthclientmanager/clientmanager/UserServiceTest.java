@@ -10,10 +10,10 @@ import java.util.Date;
 import org.junit.Before;
 import org.junit.Test;
 
+import oauthclientmanager.clientmanager.clientdetails.OauthClientDetailsRepo;
 import oauthclientmanager.clientmanager.user.User;
 import oauthclientmanager.clientmanager.user.UserRepo;
 import oauthclientmanager.clientmanager.user.UserService;
-import ouathclientmanager.clientmanager.clientdetails.OauthClientDetailsRepo;
 
 public class UserServiceTest {
 	
