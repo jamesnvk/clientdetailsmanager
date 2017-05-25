@@ -1,4 +1,4 @@
-package ouathclientmanager.clientmanager.clientdetails;
+package oauthclientmanager.clientmanager.clientdetails;
 
 
 import java.util.*;
